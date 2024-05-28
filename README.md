@@ -6,7 +6,7 @@ This repository provides a comprehensive demonstration of deep learning capabili
 
 The MNISTsharp project showcases the power of deep learning in C# by implementing a neural network from scratch, leveraging the Torchsharp library for efficient and accurate computations. The repository includes:
 
-1. **MNIST Classification Model**: A deep convolutional neural network that classifies handwritten digits (0-9) using the MNIST dataset achieving over 98.5% accuracy.
+1. **MNIST Classification Model**: A deep convolutional neural network that classifies handwritten digits (0-9) using the MNIST dataset achieving over 98.78% accuracy.
 
 ![image](https://github.com/kerodkibatu/MNISTsharp/assets/88666160/5d45d922-466f-4a2b-8515-ac9157f44d47)
 
