@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KNET_Inference": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Kerod\\source\\repos\\MNISTsharp\\KNET_Inference"
+    }
+  }
+}

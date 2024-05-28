@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MNISTsharp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Kerod\\source\\repos\\MNISTsharp\\MNISTsharp"
+    }
+  }
+}
