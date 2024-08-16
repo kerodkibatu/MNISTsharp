@@ -1,6 +1,4 @@
 ﻿// Net.cs
-using System;
-using TorchSharp;
 using TorchSharp.Modules;
 using static TorchSharp.torch;
 using static TorchSharp.torch.nn;
